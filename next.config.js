@@ -1,4 +1,4 @@
-import WithPWA from 'next-pwa'
+const WithPWA = require('next-pwa')
 
 module.exports = WithPWA({
     pwa : {
